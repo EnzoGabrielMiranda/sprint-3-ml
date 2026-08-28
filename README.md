@@ -23,7 +23,7 @@ Prever o `Nivel_Risco` das apólices por meio de modelos de classificação.
 ## Como executar
 
 1. Coloque o notebook e a planilha na mesma pasta.
-2. Abra `Modelagem_Machine_Learning_Sompo.ipynb` no Google Colab ou Jupyter.
+2. Abra `colab` no Google Colab ou Jupyter.
 3. Instale, se necessário: `pandas openpyxl scikit-learn matplotlib seaborn`.
 4. Execute as células na ordem.
 
